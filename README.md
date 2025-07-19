@@ -90,4 +90,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## 🙌 Acknowledgements
 
-Built with ❤️ using Next.js, TailwindCSS, and TypeScript.
+Built with 💗 using Next.js, TailwindCSS, and TypeScript.
